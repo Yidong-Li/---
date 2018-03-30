@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+  <icon move-min-left="{{0}}" move-max-left="{{750}}" move-min-top="{{0}}" move-max-top="{{1334}}" img-url="{{imgUrl}}" init-left="590" init-top="600"></icon>
+</view>

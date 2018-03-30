@@ -1,0 +1,4 @@
+<!--components/lottery-icon/index.wxml-->
+<view class="content {{startMove?'move1':'move2'}}" bindtouchstart='touchStart' bindtouchmove='touchMove' bindtouchend='touchEnd' style="top:{{top}}px;left:{{left}}px">
+  <image src='{{imgUrl}}' class="img"></image>
+</view>

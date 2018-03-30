@@ -1,0 +1,28 @@
+/* components/lottery-icon/index.wxss */
+.content {
+  width:160rpx;
+  height:160rpx;
+  /* border:1rpx solid black; */
+  position:absolute;
+  top:0;
+  left:0;
+}
+
+.move1 {
+  transition-duration: 0s;
+  transition-property: all;
+  transition-timing-function: linear;
+  transition-delay: 0s;
+}
+
+.move2 {
+  transition-duration: 0.3s;
+  transition-property: all;
+  transition-timing-function: ease;
+  transition-delay: 0s;
+}
+
+.img {
+  width:100%;
+  height:100%;
+}
